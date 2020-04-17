@@ -13,7 +13,7 @@
 	$total = 1;
 
 	// Iterate 50 times
-	for ($i=1; $i < 50; $i++) 
+	for ($i=1; $i < 51; $i++) 
 	{
 		// Do the maths
 		$total = $total+($i^2);
